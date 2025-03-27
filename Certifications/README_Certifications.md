@@ -4,3 +4,4 @@ This directory contains additional third-party certifications that demonstrate F
 
 ## Included Documents
 - ISO/IEC 27001 Certificate
+- Vendor SOC 2 Type II summaries
