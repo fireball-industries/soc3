@@ -10,3 +10,5 @@ At Fireball Industries, security is embedded into our technology, processes, and
 - Endpoint Detection and Response (EDR)
 - Employee Security Awareness Training
 
+## 🔍 Monitoring and Response
+
