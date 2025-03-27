@@ -3,3 +3,5 @@
 Fireball Industries' SOC 3 report affirms compliance with the following TSCs:
 
 ## 🔐 Security (Required)
+
+- Access control
