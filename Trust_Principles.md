@@ -15,3 +15,5 @@ Fireball Industries' SOC 3 report affirms compliance with the following TSCs:
 - Performance monitoring
 
 ## 🔒 Confidentiality
+
+- Data encryption
