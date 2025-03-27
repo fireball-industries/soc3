@@ -17,3 +17,4 @@ Unlike the SOC 2 report, which is restricted, this SOC 3 report is publicly shar
 ## 📂 Contents
 
 ```plaintext
+SOC3-Certification-Repo/
