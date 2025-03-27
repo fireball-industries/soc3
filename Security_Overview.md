@@ -19,3 +19,6 @@ At Fireball Industries, security is embedded into our technology, processes, and
 ## 🧪 Audits and Testing
 
 - Annual SOC 2 Type II audits
+- Quarterly access and permission reviews
+
+
