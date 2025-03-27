@@ -23,6 +23,7 @@ SOC3-Certification-Repo/
 ├── Logos_Badges/                    # Compliance seals for marketing
 │   └── SOC3_Certified_Seal.png
 ├── Contact_Us.md                    # Contact form or instructions
+├── README.md                        # This overview
 ├── SOC3_Report.pdf                  # Official CPA-issued SOC 3 report
 ├── Trust_Principles.md              # Summary of AICPA Trust Services Criteria
 ├── Security_Overview.md             # Fireball's high-level security controls
