@@ -19,3 +19,5 @@ Fireball Industries' SOC 3 report affirms compliance with the following TSCs:
 - Data encryption
 - Role-based access
 - Secure storage and disposal
+
+These principles ensure our clients’ data is handled with integrity, availability, and confidentiality in mind.
