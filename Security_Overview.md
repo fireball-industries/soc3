@@ -8,3 +8,5 @@ At Fireball Industries, security is embedded into our technology, processes, and
 - Role-Based Access Control (RBAC)
 - Secure Development Lifecycle (SDLC)
 - Endpoint Detection and Response (EDR)
+- Employee Security Awareness Training
+
