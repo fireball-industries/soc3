@@ -9,3 +9,5 @@ Fireball Industries' SOC 3 report affirms compliance with the following TSCs:
 - Monitoring and incident response
 
 ## ☁️ Availability
+
+- System uptime
