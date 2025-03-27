@@ -12,3 +12,5 @@ SOC 3 (System and Organization Controls 3) is a public report that demonstrates 
 - ✅ Processing Integrity
 - 👤 Privacy
 
+Unlike the SOC 2 report, which is restricted, this SOC 3 report is publicly shareable and designed to build trust with customers, partners, and stakeholders.
+
