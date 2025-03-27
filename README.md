@@ -34,3 +34,5 @@ This repository is part of our ongoing commitment to:
 - Security
 - Compliance
 - Customer trust
+
+If you have questions about our SOC 3 or SOC 2 reports, please see `Contact_Us.md` or reach out to our compliance team.
