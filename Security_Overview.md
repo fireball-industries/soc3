@@ -20,5 +20,5 @@ At Fireball Industries, security is embedded into our technology, processes, and
 
 - Annual SOC 2 Type II audits
 - Quarterly access and permission reviews
-
+- Regular third-party penetration testing
 
