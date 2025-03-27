@@ -6,3 +6,4 @@ This folder contains official compliance seals, certifications, and marketing gr
 
 These assets may be used on:
 - Trust & compliance web pages
+- Proposal decks
