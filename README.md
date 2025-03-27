@@ -4,3 +4,6 @@ Welcome to the official SOC 3 compliance repository for Fireball Industries. Thi
 
 ## 📄 What is SOC 3?
 
+SOC 3 (System and Organization Controls 3) is a public report that demonstrates how Fireball Industries meets the Trust Services Criteria for:
+
+- 🔐 Security
