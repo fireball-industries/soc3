@@ -5,3 +5,4 @@ If you would like to learn more about our compliance program or request access t
 **Email:** compliance@fireballindustries.com  
 **Website:** [fireballz.ai.com/trust](https://fireballz.ai/)
 
+We'll respond within 2 business days.
