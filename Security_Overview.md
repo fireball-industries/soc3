@@ -4,3 +4,4 @@ At Fireball Industries, security is embedded into our technology, processes, and
 
 ## 🔐 Core Security Practices
 
+- Multi-Factor Authentication (MFA)
