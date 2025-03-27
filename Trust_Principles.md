@@ -1,1 +1,3 @@
 # AICPA Trust Services Criteria (TSC)
+
+Fireball Industries' SOC 3 report affirms compliance with the following TSCs:
