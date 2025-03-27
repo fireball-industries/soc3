@@ -30,4 +30,4 @@ SOC3-Certification-Repo/
 ## 🛡 Why This Matters
 
 This repository is part of our ongoing commitment to:
-
+- Transparency
