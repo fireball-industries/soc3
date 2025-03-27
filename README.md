@@ -18,4 +18,4 @@ Unlike the SOC 2 report, which is restricted, this SOC 3 report is publicly shar
 
 ```plaintext
 SOC3-Certification-Repo/
-│
+│├── SOC3_Report.pdf                  # Official CPA-issued SOC 3 report
