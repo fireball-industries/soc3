@@ -27,4 +27,7 @@ SOC3-Certification-Repo/
 │   └── SOC3_Certified_Seal.png
 └── Contact_Us.md                    # Contact form or instructions
 ```
+## 🛡 Why This Matters
+
+This repository is part of our ongoing commitment to:
 
