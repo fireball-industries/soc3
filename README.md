@@ -24,8 +24,6 @@ SOC3-Certification-Repo/
 ├── README.md                        # This overview
 ├── Trust_Principles.md              # Summary of AICPA Trust Services Criteria
 ├── Security_Overview.md             # Fireball's high-level security controls
-├── Logos_Badges/                    # Compliance seals for marketing
-│   └── SOC3_Certified_Seal.png
 └── Contact_Us.md                    # Contact form or instructions
 ```
 ## 🛡 Why This Matters
