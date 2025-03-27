@@ -22,3 +22,4 @@ At Fireball Industries, security is embedded into our technology, processes, and
 - Quarterly access and permission reviews
 - Regular third-party penetration testing
 
+Security is not a checkbox — it’s our foundation.
