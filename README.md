@@ -24,3 +24,4 @@ SOC3-Certification-Repo/
 ├── Security_Overview.md             # Fireball's high-level security controls
 ├── Certifications/                  # Additional certifications
 ├── Logos_Badges/                    # Compliance seals for marketing
+│   └── SOC3_Certified_Seal.png
