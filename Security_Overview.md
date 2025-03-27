@@ -14,3 +14,5 @@ At Fireball Industries, security is embedded into our technology, processes, and
 
 - 24/7 security monitoring
 - Incident response program
+- Regular vulnerability scanning and patching
+
