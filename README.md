@@ -26,7 +26,6 @@ SOC3-Certification-Repo/
 ├── README.md                        # This overview
 ├── SOC3_Report.pdf                  # Official CPA-issued SOC 3 report
 ├── Trust_Principles.md              # Summary of AICPA Trust Services Criteria
-├── Security_Overview.md             # Fireball's high-level security controls
 ```
 ## 🛡 Why This Matters
 
