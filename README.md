@@ -25,3 +25,6 @@ SOC3-Certification-Repo/
 ├── Certifications/                  # Additional certifications
 ├── Logos_Badges/                    # Compliance seals for marketing
 │   └── SOC3_Certified_Seal.png
+└── Contact_Us.md                    # Contact form or instructions
+```
+
