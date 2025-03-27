@@ -19,6 +19,7 @@ Unlike the SOC 2 report, which is restricted, this SOC 3 report is publicly shar
 ```plaintext
 SOC3-Certification-Repo/
 │
+├── Certifications/                  # Additional certifications
 ├── SOC3_Report.pdf                  # Official CPA-issued SOC 3 report
 ├── README.md                        # This overview
 ├── Trust_Principles.md              # Summary of AICPA Trust Services Criteria
