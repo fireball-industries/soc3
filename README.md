@@ -31,3 +31,4 @@ SOC3-Certification-Repo/
 
 This repository is part of our ongoing commitment to:
 - Transparency
+- Security
