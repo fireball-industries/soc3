@@ -7,3 +7,4 @@ This directory contains additional third-party certifications that demonstrate F
 - Vendor SOC 2 Type II summaries
 - Other industry certifications (as applicable)
 
+These documents support our SOC 3 and overall security posture.
